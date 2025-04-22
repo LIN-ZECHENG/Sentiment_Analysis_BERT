@@ -2,7 +2,7 @@
   
 [English](../README.md)| 简体中文
 
-
+![pic](https://github.com/LIN-ZECHENG/Sentiment_Analysis_BERT/blob/main/src/20250422_2117_%E7%8E%B0%E4%BB%A3%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90_simple_compose_01jset7vtvf6rv53bkmm2grnf3.png?raw=true)
 
 <h2 id="title">Sentiment_Analysis_BERT</h2>
 </div>
