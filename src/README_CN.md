@@ -2,6 +2,11 @@
   
 [English](../README.md)| 简体中文
 
+
+![Search](https://github.com/LIN-ZECHENG/Sentiment_Analysis_BERT/blob/main/src/Search.gif?raw=true)
+
+
+
 <h2 id="title">Sentiment_Analysis_BERT</h2>
 </div>
 
