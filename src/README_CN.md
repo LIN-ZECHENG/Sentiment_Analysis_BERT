@@ -1,5 +1,7 @@
 <div align="center">
-[English]| 简体中文
+  
+[English](../README.md)| 简体中文
+
 <h2 id="title">Sentiment_Analysis_BERT</h2>
 </div>
 
